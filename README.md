@@ -1,4 +1,4 @@
-# Group Project - Group 2
+# The Analyse of the Factors that Affect the Stylistic Differences of Colonial South Asian English Literature
 
 ## 1. Motivation
 Sometimes there are stylistic differences between pieces of literature that are written by authors from a certain period, a certain region, etc. Ted Underwood, Kevin Kiley, Wenyi Shang, and Stephen Vaisey (2022) have found that the birth year of authors explains better than the published year of literature in their corpus of 10,830 works of fiction from 1880 to 1999. One of the assignments we have done this semester shows that the published year is the main factor influencing the stylistic relations between 150 English novels published between 1771 and 1930. We are interested in the situations in other corpus and want to find out the factors there if there are stylistic differences between those pieces of literature.
